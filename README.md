@@ -74,4 +74,4 @@
 ### git reset
 
 - 특정한 브랜치로 코드를 동일하게 세팅
-- 
+- git reset --hard origin/master
