@@ -42,7 +42,7 @@
 - git이 관리하는 파일을 추가합니다
 - 파일의 경로를 정확하게 입력해야 하기 때문에 보통 git add * 로 모든 파일을 포함하게 합니다
 - 포함하지 않아야 하는 파일들(node_modules 등)은 .gitignore에 추가해야 합니다
-
+- git add -f 파일명 -> gitignore 무시
 ### git diff
 
 - 변경된 내역을 표시합니다
