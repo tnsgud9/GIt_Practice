@@ -1,4 +1,4 @@
-# GIt_Practice
+# Git_Practice
 -----
 ### Git 사용 연습용
 
