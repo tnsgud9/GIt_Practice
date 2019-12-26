@@ -13,11 +13,13 @@
 ----
 ## 시작 전 준비
 터미널 방식의 Git을 처음 사용할 때는 처음의 사용자 정보를 입력해야 합니다.
+
 <code>
   git config --global user.email "you@example.com"
   
   git config --global user.name "내 이름"
 </code>
+
 계정의 기본 신원 정보를 설정합니다.
 --global 옵션을 빼면 이 저장소서만 신원 정보를 설정합니다.
 
