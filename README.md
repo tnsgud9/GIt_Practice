@@ -71,3 +71,13 @@
 
 - 특정한 브랜치로 코드를 동일하게 세팅
 - git reset --hard origin/master
+
+----
+
+### git pull을 하고 conflict 에러가 발생하면?
+
+- git reset --hard origin/master
+
+origin/master 커밋으로 현재 컴퓨터의 있는 프로젝트가 리셋된다.
+
+
