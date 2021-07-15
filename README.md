@@ -1,6 +1,8 @@
 # Git_Practice
 ### Git 사용 연습용
 
+## 이 Git은 Fork 되었습니다.
+
 의도 : GITHUB와 Git을 통해 어떻게 깃을 사용하고 부가기능까지 실습.
 
 
